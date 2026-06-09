@@ -17,3 +17,21 @@ Projeto de análise comercial, estoque e desempenho financeiro da empresa fictí
 Explore a versão interativa do dashboard publicada no Power BI Service:
 
 🔗 [Visualizar Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjE4NTQ3NDctYjlhMC00YzBlLWJkY2EtNmQ1YmU1MjhmM2U4IiwidCI6ImQ3NzNiNzQxLWE4ODYtNDQxNi1hYmUwLTVjNzIzYTc5MmIzMiJ9)
+
+## 🎯 Objetivo do Projeto
+
+Desenvolver um dashboard corporativo para análise comercial, controle de estoque e acompanhamento financeiro da empresa fictícia DataToys, permitindo o monitoramento de indicadores estratégicos e apoiando a tomada de decisão por meio da visualização de dados.
+
+O projeto foi estruturado para fornecer uma visão integrada das operações da empresa, abrangendo desempenho de vendas, gestão de produtos, movimentação de estoque e resultados financeiros.
+
+
+## 📈 Análise Comercial
+
+A página Comercial foi desenvolvida para acompanhar o desempenho das vendas da empresa, permitindo analisar indicadores como faturamento, quantidade vendida, vendas ao longo do tempo, atingimento de metas e distribuição geográfica das vendas.
+
+Essa visão fornece uma compreensão clara dos resultados comerciais, auxiliando na identificação de oportunidades e no acompanhamento da performance do negócio.
+
+<p align="center">
+  <img src="images/comercial.png" alt="Dashboard Comercial DataToys">
+</p>
+
