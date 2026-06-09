@@ -1,5 +1,5 @@
 🧸 DATATOYS - Análise de Negócios
 
 <p align="center">
-  <img src="images/capa.png" alt="DATATOYS Business Analysis Dashboard">
+  <img src="images/capa-datatoys.png" alt="DATATOYS Business Analysis Dashboard">
 </p>
