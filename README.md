@@ -24,6 +24,32 @@ Desenvolver um dashboard corporativo para análise comercial, controle de estoqu
 
 O projeto foi estruturado para fornecer uma visão integrada das operações da empresa, abrangendo desempenho de vendas, gestão de produtos, movimentação de estoque e resultados financeiros.
 
+## ⚙️ Tecnologias Aplicadas
+
+- Power BI
+- DAX
+- Power Query
+- Modelagem de Dados
+- Figma
+
+## 📊 Principais Indicadores
+
+### Comercial
+- Faturamento
+- Quantidade Vendida
+- Evolução das Vendas
+- Atingimento de Metas
+- Distribuição Geográfica
+
+### Financeiro
+- Receita
+- Despesa
+- Saldo
+- Evolução do Saldo
+- Despesas por Categoria e Departamento
+- Simulação de Cenários
+- Redução de Custos por Área
+
 
 ## 📈 Análise Comercial
 
